@@ -3,7 +3,7 @@ Tindog website clone
 
 
 
-# ****TOOLS******:
+# ****TOOLS****:
 # HTML5
 # CSS3
 # Bootstrap4
